@@ -1,4 +1,4 @@
-// hello.c
+// Hola mundo 10 veces.
 #include <stdio.h>
 
 int main(void) {
